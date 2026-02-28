@@ -1,4 +1,4 @@
-# MedStore
+# Medical Store Management 
 Medical Store Database Management System using Django
 
 Setting up the project:
