@@ -9,7 +9,7 @@ Download the latest version.
 
 Install django in your system using the following command:
 
-> pip install Django==1.11.6
+> pip install Django==1.11.7
 
 Current version can be different but this project uses the older version.
 
