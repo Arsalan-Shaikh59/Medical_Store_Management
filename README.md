@@ -1,7 +1,7 @@
 # Medical Store Management System
 Medical Store Database Management System using Django
 
-Setting up the project:
+Setting up project:
 
 Download the project zip file & Extract it.
 Install Python3 in your system.
